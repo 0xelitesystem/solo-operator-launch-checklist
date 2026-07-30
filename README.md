@@ -8,15 +8,19 @@ A solo operator launch checklist is the list of things to confirm before going l
 
 ## What is inside
 
-- `01-before-you-launch.md` the mindset and the order of operations.
-- `02-legal-and-policies.md` the pages and disclosures you need.
-- `03-security-and-technical.md` the foundations that prevent disasters.
-- `04-content-and-conversion.md` the path from visitor to action.
-- `05-the-launch-checklist.md` the full checklist in one place.
+- [01-before-you-launch.md](01-before-you-launch.md) the mindset and the order of operations.
+- [02-legal-and-policies.md](02-legal-and-policies.md) the pages and disclosures you need.
+- [03-security-and-technical.md](03-security-and-technical.md) the foundations that prevent disasters.
+- [04-content-and-conversion.md](04-content-and-conversion.md) the path from visitor to action.
+- [05-the-launch-checklist.md](05-the-launch-checklist.md) the full checklist in one place.
 
 ## The stance
 
 This checklist favors shipping something complete and honest over shipping something flashy and fragile. The unglamorous items, backups, legal pages, security basics, are exactly the ones a solo operator is tempted to skip and exactly the ones that cause real pain when skipped.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
